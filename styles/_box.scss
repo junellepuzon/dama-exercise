@@ -1,0 +1,9 @@
+@mixin line {
+    box-sizing: border-box;
+    height: 6.2em;
+    width: 6.2em;
+}
+
+.box {
+    @include line;
+}

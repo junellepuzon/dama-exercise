@@ -1,0 +1,23 @@
+.border {
+    @include line;
+}
+
+.solid {
+    border: solid grey;
+}
+
+.right{
+    border-right: solid grey;
+}
+
+.left {
+    border-left: solid grey;
+}
+
+.top {
+    border-top: solid grey;
+}
+
+.bottom {
+    border-bottom: solid grey;
+}
