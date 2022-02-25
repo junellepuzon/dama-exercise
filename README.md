@@ -3,4 +3,4 @@
 >> ###### Challenge:
 >> - Create a dama board without using rotate property in CSS.
 
-![Screenshot](images/screenshot.png)
+![Screenshot](screenshot.png)
